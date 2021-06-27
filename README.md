@@ -1,0 +1,1 @@
+https://client-server-mock.herokuapp.com/get-stocks?customer_id=100
